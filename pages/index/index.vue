@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>{{ store.getName }}</h2>
+        <Memories />
     </div>
 </template>
 
